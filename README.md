@@ -31,9 +31,9 @@ Briefly explain the purpose of this list and what OCR for Buddhist texts entails
 
 <!-- Mention any datasets that are particularly useful for training OCR models on Buddhist texts. -->
 
-- Lhasa Kanjur - We took 10 volumn's line images with its inference and corrected by annotators, we have about 160k line images with annotations. Sourced from BDRC W26071
-- Derge Tenjur - We have about 676K line images of the Derge Tenjur line images and its transcripts
-- Lithang Kanjur - We have about 25 GB line images and its transcripts
+- Lhasa Kanjur - 160K line images and transcripts
+- Derge Tenjur - 676K line images and transcripts
+- Lithang Kanjur - 25 GB line images and transcripts
 
 ## Research Papers
 
