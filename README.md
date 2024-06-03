@@ -30,10 +30,21 @@ Briefly explain the purpose of this list and what OCR for Buddhist texts entails
 ## Datasets
 
 <!-- Mention any datasets that are particularly useful for training OCR models on Buddhist texts. -->
-
+### OCR Line image and Transcriptions
 - Lhasa Kanjur - 160K line images and transcripts
 - Derge Tenjur - 676K line images and transcripts
 - Lithang Kanjur - 25 GB line images and transcripts
+- Norbuketaka - 2M line images and transcripts
+- Google Books - 700K line images and transcripts
+
+### Line Segmentation data
+- Monlam AI annotated - 9k page images
+- HTR project annotated - 10k page images
+- Google books - 20k page images (line segmentation from Google Books OCR output)
+- Transkribus annotated - 2 works line segmentated using Transkribus
+
+### Laout Analysis data
+- Monlam AI annotated - 9k page images
 
 ## Research Papers
 
